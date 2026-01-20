@@ -1,6 +1,6 @@
 ### KNN-Algorithm Practice Projects
 
-This repository contains practice Python files for learning basic machine learning concepts using **scikit-learn**. The focus is on classification tasks with the **Iris** and **Breast Cancer** datasets.
+This repository contains practice Python files for learning basic machine learning (KNN-algorithm) concepts using **scikit-learn**. The focus is on classification tasks with the **Iris** and **Breast Cancer** datasets.
 
 ---
 
@@ -19,12 +19,12 @@ This repository contains practice Python files for learning basic machine learni
 
 ### 2. `breast_cancer_practice.py`
 - Uses the **Breast Cancer dataset** from scikit-learn.
-- Implements a classifier (e.g., KNN or other models you tried).
+- Implements a KNN classifier.
 - Steps included:
   - Loading the Breast Cancer dataset
   - Splitting data into training and test sets
   - Scaling the data
-  - Training the model
+  - Training the KNN model
   - Making predictions on test data
   - Evaluating accuracy
   - Visualizing results with a confusion matrix
